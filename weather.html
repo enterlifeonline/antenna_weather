@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+      <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+      <meta charset="utf-8">
+      <title>Open Weather Experiment</title>
+      <link rel="stylesheet" href="weather.css">
+
+
+      <script>
+      $(document).ready(function (){
+          $("#btn382").click(function(){
+              /* set no cache */
+              $.ajaxSetup({ cache: false });
+
+              $.getJSON("antenna_weather.json", function(data){
+                  for (var team in data) {
+                    var html = [];
+                    html = '<div class="item"><b>CITY: </b>' + data[team].City + '<br/>';
+                    html += '<b>LAT: </b>' +data[team].Lat + '<br/>';
+                    html += '<b>LON: </b>' + data[team].Lon + '<br/>';
+                    html += '<b>EMBED: </b>' + data[team].Embed + '<br/>';
+                    html += '<b>JSON: </b>' + data[team].Json + '<br/>';
+                    html += '<b>NAME: </b>' + data[team].Antenna + '<br/>';
+                    html += '<b>TYPE: </b>' + data[team].Type + '<br/>';
+                    html += '<b>ALT(m): </b>' + data[team].Alt + '<br/></div><br />';
+                    $("#div381").append(html);
+                  }
+              })
+              .error(function(jqXHR, textStatus, errorThrown){ /* assign handler */
+                  /* alert(jqXHR.responseText) */
+                  alert("error occurred!");
+              });
+          });
+      });
+      </script>
+
+    </head>
+    <body>
+      <div id="example-section38">
+        <div><h1>Kratos RT Logic</h1></div>
+        <div id="div381"></div>
+        <button id="btn382" type="button">Antenna Locations & Weather</button>
+      </div>
+
+    </body>
+    </html>

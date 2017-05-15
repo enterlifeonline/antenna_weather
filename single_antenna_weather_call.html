@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Weather</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+
+    function gettingJSON(){
+        document.write("<b>CYPRUS</b><br />");
+        $.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",function(json){
+            document.write(JSON.stringify(json));
+        document.write("<br /><br />");
+
+
+
+        });
+    }
+    </script>
+
+</head>
+<body>
+<button id = "getIt" onclick = "gettingJSON()">Kratos RT Logic Antenna Weather Location API Call</button>
+</body>
+</html>

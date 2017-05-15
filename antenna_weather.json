@@ -1,0 +1,262 @@
+[
+  {
+    "City":"Woofferton UNITED KINGDOM",
+    "Lat":52.309629,
+    "Lon":-2.719247,
+    "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=2640920&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+    "Json":" http://api.openweathermap.org/data/2.5/weather?lat=52.309629&lon=-2.719247&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+    "Antenna":" ECL-2",
+    "Type":" Motorized",
+    "Alt":80
+  },
+  {
+    "City":"Woofferton UNITED KINGDOM",
+    "Lat":52.309643,
+    "Lon":-2.719079,
+    "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=2640920&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+    "Json":" http://api.openweathermap.org/data/2.5/weather?lat=52.309643&lon=-2.719079&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+    "Antenna":" ECL-3",
+    "Type":" Motorized",
+    "Alt":80
+  },
+    {
+      "City":"Fuchsstadt GERMANY",
+      "Lat":40.814844,
+      "Lon":-73.237927,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=2923900&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=50.118713&lon=9.924704&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" FUS-K56",
+      "Type":" Fixed",
+      "Alt":193
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.859489,
+      "Lon":33.384703,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.859489&lon=33.384703&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYP-A",
+      "Type":" Motorized",
+      "Alt":221
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.859627,
+      "Lon":33.384723,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.859627&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYP-B",
+      "Type":" Motorized",
+      "Alt":222
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-TVRO-4",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-TVRO-24",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-TVRO-30",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-TVRO-31",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-TVRO-33",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Kofinou CYPRUS Κοφίνου",
+      "Lat":34.860994,
+      "Lon":33.382513,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=146445&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=34.860994&lon=33.382513&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" CYTA-IRIS-TVRO-6",
+      "Type":" Fixed",
+      "Alt":230
+    },
+    {
+      "City":"Noida INDIA नोएडा",
+      "Lat":28.518261,
+      "Lon":77.508607,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1278007&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=28.518261&lon=77.508607&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" IND-A",
+      "Type":" Motorized",
+      "Alt":206
+    },
+    {
+      "City":"Noida INDIA नोएडा",
+      "Lat":28.518383,
+      "Lon":77.508611,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1278007&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=28.518383&lon=77.508611&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" IND-A",
+      "Type":" Motorized",
+      "Alt":206
+    },
+    {
+      "City":"Yongin SOUTH KOREA 용인시",
+      "Lat":37.206443,
+      "Lon":127.245895,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=6573747&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=37.206443&lon=127.245895&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" KOR-A",
+      "Type":" Motorized",
+      "Alt":150
+    },
+    {
+      "City":"Yongin SOUTH KOREA 용인시",
+      "Lat":37.206635,
+      "Lon":127.245956,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=6573747&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=37.206635&lon=127.245956&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" KOR-B",
+      "Type":" Motorized",
+      "Alt":153
+    },
+    {
+      "City":"Subic Bay, PHILIPPINES",
+      "Lat":14.758898,
+      "Lon":120.279759,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1685580&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=14.758898&lon=120.279759&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SUBIC-RO-8",
+      "Type":" Fixed",
+      "Alt":142
+    },
+    {
+      "City":"Subic Bay, PHILIPPINES",
+      "Lat":14.758898,
+      "Lon":120.279759,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1685580&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=14.758898&lon=120.279759&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SUBIC-RO-9",
+      "Type":" Fixed",
+      "Alt":142
+    },
+    {
+      "City":"Subic Bay, PHILIPPINES",
+      "Lat":14.758898,
+      "Lon":120.279759,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1685580&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=14.758898&lon=120.279759&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SUBIC-RO-17",
+      "Type":" Fixed",
+      "Alt":142
+    },
+    {
+      "City":"Subic Bay, PHILIPPINES",
+      "Lat":14.758898,
+      "Lon":120.279759,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1685580&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=14.758898&lon=120.279759&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SUBIC-RO-19",
+      "Type":" Fixed",
+      "Alt":142
+    },
+    {
+      "City":"SINGAPORE 新加坡",
+      "Lat":1.339293,
+      "Lon":103.751108,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1880252&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=1.339293&lon=103.751108&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SING-4.5",
+      "Type":" Fixed",
+      "Alt":29
+    },
+    {
+      "City":"SINGAPORE 新加坡",
+      "Lat":1.339293,
+      "Lon":103.751108,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=1880252&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=1.339293&lon=103.751108&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" SING-7.6",
+      "Type":" Fixed",
+      "Alt":29
+    },
+    {
+      "City":"Perth AUSTRALIA",
+      "Lat":-31.91444,
+      "Lon":115.920047,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=2063523&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=-31.91444&lon=115.920047&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" Not Available",
+      "Type":" Fixed",
+      "Alt":31.5
+    },
+    {
+      "City":"Adelaide AUSTRALIA",
+      "Lat":-34.817325,
+      "Lon":138.619643,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=7839644&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=-34.817325&lon=138.619643&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" Not Available",
+      "Type":" Fixed",
+      "Alt":65
+    },
+    {
+      "City":"Colorado Springs, Colorado UNITED STATES",
+      "Lat":39.012688,
+      "Lon":-104.822246,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=5417598&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=39.012688&lon=-104.822246&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" ARV-04",
+      "Type":" Fixed",
+      "Alt":2035
+    },
+    {
+      "City":"Long Island, New York UNITED STATES",
+      "Lat":40.814844,
+      "Lon":-73.237927,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=6332485&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=40.814844&lon=-73.237927&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" GC-NY-SIMULSAT",
+      "Type":" Fixed",
+      "Alt":33
+    },
+    {
+      "City":"Melbourne, Florida UNITED STATES",
+      "Lat":28.098129,
+      "Lon":-80.696489,
+      "Embed":"  http://api.openweathermap.org/data/2.5/weather?id=4163971&mode=html&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Json":" http://api.openweathermap.org/data/2.5/weather?lat=28.098129&lon=-80.696489&APPID=aee8d8e47cc9aa312403c669f1a89e09",
+      "Antenna":" Not Available",
+      "Type":" Fixed",
+      "Alt":6
+    }
+]
